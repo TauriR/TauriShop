@@ -1,0 +1,11 @@
+{
+  "customLayouts": {
+    "brand": {},
+    "category": {},
+    "page": {},
+    "product": {}
+  },
+  "normalStoreUrl": "https://tauri10.mybigcommerce.com",
+  "accessToken": "stw29jbrfq72htbp94ynvjgrytcdknt",
+  "port": 3000
+}
